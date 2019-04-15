@@ -3,4 +3,8 @@ git is very good
 I have money
 i am good
 
-happy dev and bad
+<<<<<<< HEAD
+happy dev and good
+=======
+happy dev and good
+>>>>>>> feature1
